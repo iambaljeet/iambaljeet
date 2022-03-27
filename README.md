@@ -8,8 +8,8 @@
 
 
 
-- 🔭 I’m currently working at [GreedyGame](https://greedygame.com/).
-- 🌱 I’m currently learning more about Android development and Flutter.
+- 🔭 I’m currently working at [Probo](https://probo.in).
+- 🌱 I’m currently learning more about Android development.
 - 👯 I also make silly tutorial videos on Youtube.(https://www.youtube.com/channel/UCWg_fMIBrLDUf2Z5wMh_6rw)
 - 📫 How to reach me: [Twitter - @yetanotherdev_](https://twitter.com/yetanotherdev_)
 - 😄 Pronouns: He/His
